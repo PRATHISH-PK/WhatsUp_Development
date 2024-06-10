@@ -1,0 +1,11 @@
+
+   6.White Box Testing:
+   ====================
+                 Internal structure.
+				 Design and coding of software are tested to verify flow of input-output and to improve design,usability and security.
+				 
+				 Loops:
+				 
+				 Conditional Statements,
+				                   Expected output,
+								   Any loophope on code which may lead to security threat each and function written in the code.
